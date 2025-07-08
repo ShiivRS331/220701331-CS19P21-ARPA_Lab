@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GY9OIBj1cE2yM7Kcmj8ZBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="5580142b-20c7-453a-898f-9d5581d1af3c" CvElementArea="544, 1211, 127, 73" CvTextArea="573, 1233, 72, 32" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="549, 1214, 121, 68" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="1d2e9946-dec1-4926-9708-7fc61cc4cb80" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5580142b-20c7-453a-898f-9d5581d1af3c" CvElementArea="673, 1210, 348, 74" CvTextArea="703, 1233, 292, 32" CvTextArgument="Forgot Your Password?" CvType="Button" DesignTimeRectangle="677, 1214, 343, 68" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='                                 Forgot Your Password?                             ' tag='A' type='' class='btn bg-warning' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Forgot Your Password?' /&gt;" Guid="756078e5-1ddc-4ad7-b4d6-bb3df3a2f374" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="459abc1ccd20f7596edab8c4ab60a0c0.png" xmlns="">0Joi8yXOtb0-2xmH3pgqw_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
