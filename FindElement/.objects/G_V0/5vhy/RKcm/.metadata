@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Home  Rajalakshmi Engineering College ",
+  "Type": "Screen",
+  "Id": "RKcmc__7JEWe2xTEENfo3Q",
+  "Reference": "Fcx5BrMNL0CIoet6Uwpv-Q/RKcmc__7JEWe2xTEENfo3Q",
+  "ParentRef": "Fcx5BrMNL0CIoet6Uwpv-Q/5vhypOG_JUOGk9z-IZSWZQ",
+  "Created": "2025-08-18T07:59:10.0912609Z",
+  "Updated": "2025-08-18T07:59:10.0912609Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
